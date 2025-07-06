@@ -53,7 +53,7 @@ padding-top: 8px;}
 }
 .d4{width: 30%;
 }
-h3{padding-top: 10px;}
+
 .sp{margin-top: 20px;}
 .aaa{padding-left: 70px;}
 .amar{padding-left: 60px;}
@@ -93,8 +93,9 @@ background-color: burlywood;
 font-size: 20px;
 padding-left: 20px;
 padding-right: 20px;}
-h3{text-align: center;
+h3{;
 margin-top: 20px;
 }
 
+.hasi{margin-left: 55px;}
 
